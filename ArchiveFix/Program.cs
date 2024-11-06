@@ -37,7 +37,7 @@ namespace ArchiveFix
             new Action(Program.FetchKeys)
           },
           {
-            "donotuse_really",
+            "buildHashTables",
             new Action(Program.BuildHashTables)
           }
         };
